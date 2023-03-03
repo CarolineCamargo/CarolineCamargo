@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-#### I'm Caroline, I study back-end development with the Java language. Currently my focus is on learning microservices architecture and the Spring.
+#### I'm Caroline, a Java back-end developer. Currently my focus is learning microservice architecture and Spring.
